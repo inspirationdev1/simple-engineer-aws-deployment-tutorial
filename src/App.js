@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test Updates-1
+          Test Updates-2-Time:10:20 PM
         </p>
         <a
           className="App-link"
