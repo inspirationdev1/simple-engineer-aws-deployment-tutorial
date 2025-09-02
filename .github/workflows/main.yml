@@ -33,7 +33,7 @@ jobs:
           application_name: simple-engineer-deployment-tutorial
           environment_name: Simple-engineer-deployment-tutor-env
           # version_label: "the-simple-engineer-deployment-${{ steps.format-time.outputs.replaced }}"
-          version_label: "4.1"
+          version_label: "4.2"
           region: us-east-2
           deployment_package: deploy.zip
         id: current-time
